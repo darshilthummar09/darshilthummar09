@@ -38,10 +38,4 @@ Here are a few of my featured projects:
 
 ---
 
-## 📈 GitHub Stats
-![Darshil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshilthummar09&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshilthummar09&layout=compact&theme=radical)
-
----
-
 **"Building solutions, one line of code at a time."** 🚀
