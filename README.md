@@ -26,7 +26,7 @@
 
 ## 🚀 Projects
 Here are a few of my featured projects:
-- 🔗 [**Portfolio Website**](https://darshilthummar.vercel.app/) – My personal portfolio showcasing projects, skills, and experience.
+- 🔗 [**Portfolio Website**](https://darshilthummar.vercel.app/) – My personal portfolio showcasing about me, skills, and experience.
 
 ---
 
@@ -34,7 +34,7 @@ Here are a few of my featured projects:
 - 🌐 [darshilthummar.vercel.app](https://darshilthummar.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/darshil-thummar-50bb8b216/)  
 - 🐙 [GitHub](https://github.com/darshilthummar09)  
-- 📧 thummardarshil@gmail.com  
+- 📧 thummardarshil9@gmail.com  
 
 ---
 
